@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Guilherme-De-Marchi/Guilherme-De-Marchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,33 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# **HELLO WORLD** 🖖
+
+![Dino game](img/dino-game.gif)
+
+<a href="https://www.instagram.com/de_marchi_guilherme_13/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> <a href="wa.me/5515988332748"><img src="https://img.shields.io/badge/whatsapp-%2325d366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" height=25></a> <a href="mailto:guilhermedemarchi13@gmail.com"><img src="https://img.shields.io/badge/email-%233e65cf.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
+
+```python
+class Human:
+    def __init__(self, name: str, age: int):
+        self.name = name
+        self.age = age
+
+class Programmer(Human):
+    def __init__(self, name: str, age: int, languages: list):
+        super().__init__(name, age)
+
+        self.languages = languages
+
+me = Programmer(
+    'Guilherme de Marchi',
+    17,
+    [
+        'Python', 
+        'Javascript', 
+        'Html5', 
+        'Css3',
+    ]
+)
+```
