@@ -13,12 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<style>
-    .full-width {
-        width: 100%;
-    }
-</style>
-
 # **HELLO WORLD** 🖖
 
 <img class="full-width" src="https://4.bp.blogspot.com/-Ex7VGxgJcNM/W5Rq2_5L7MI/AAAAAAAFEtQ/AlVEb1VlNZYp3v-O-Enik4S3HLVuK9jhQCLcBGAs/s1600/Dino_non-birthday_version.gif"/>
