@@ -29,3 +29,5 @@ My name is Guilherme de Marchi (17 years old 👶), i live in Brasil and study _
 - Javascript
 - Html5
 - Css3
+
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
