@@ -8,7 +8,7 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/guilhermedemarchi) 
-[![Kaggle](https://img.shields.io/badge/Kaggle-%230077B5.svg?logo=kaggle&logoColor=white)]([https://linkedin.com/in/guilhermedemarchi](https://www.kaggle.com/guilhermedemarchi))
+[![Kaggle](https://img.shields.io/badge/Kaggle-%230077B5.svg?logo=kaggle&logoColor=white)](https://www.kaggle.com/guilhermedemarchi)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Guilherme-De-Marchi&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
